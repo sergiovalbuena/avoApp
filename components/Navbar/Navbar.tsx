@@ -33,7 +33,7 @@ const Navbar = () => {
       </Container>
       <style jsx global>{`
         .ui.menu.huge {
-          font-size: 1.5rem;
+          font-size:1.5rem;
         }
       `}</style>
     </Menu>
